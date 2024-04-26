@@ -49,3 +49,5 @@ Just download the .exe file and execute.
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 - see the [LICENSE](LICENSE.md) file for details
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deltaone-TraderForPoe&label=Repository%20views&color=ce9927&style=flat" /> </p>
